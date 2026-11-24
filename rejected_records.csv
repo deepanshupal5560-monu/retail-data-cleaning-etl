@@ -1,0 +1,6 @@
+order_id,customer_id,customer_name,city,category,order_amount,order_date,rejection_reason
+ORD-1001,CUST-01,Rahul Sharma,Delhi,Electronics,45000.0,2024-03-10,Duplicate Order ID
+ORD-1003,CUST-03,,Ghaziabad,Fashion,3200.0,2024-03-12,Missing Customer Name or Category
+ORD-1004,CUST-04,Amit Kumar,lucknow,electronics,-1500.0,2024-03-13,Invalid or Non-Positive Order Amount
+ORD-1006,CUST-05,Neha Singh,Delhi,Groceries,2450.0,invalid-date,Invalid Date Format
+ORD-1008,CUST-03,Suresh Das,Ghaziabad,Groceries,,2024-03-16,Invalid or Non-Positive Order Amount

@@ -1,0 +1,11 @@
+order_id,customer_id,customer_name,city,category,order_amount,order_date
+ORD-1001,CUST-01,  rahul sharma ,delhi,electronics,45000.0,2024-03-10
+ORD-1002,CUST-02,Priya Verma,Noida,home appliances,12500.5,2024-03-11
+ORD-1001,CUST-01,Rahul Sharma,Delhi,Electronics,45000.0,2024-03-10
+ORD-1003,CUST-03,,Ghaziabad,Fashion,3200.0,2024-03-12
+ORD-1004,CUST-04,Amit Kumar,lucknow,electronics,-1500.0,2024-03-13
+ORD-1005,CUST-02,Priya Verma,Noida,Electronics,18900.0,2024/03/14
+ORD-1006,CUST-05,Neha Singh,Delhi,Groceries,2450.0,invalid-date
+ORD-1007,CUST-06,Vikram Rao,Gurugram,fashion,5600.0,2024-03-15
+ORD-1008,CUST-03,Suresh Das,Ghaziabad,Groceries,,2024-03-16
+ORD-1009,CUST-07,Anjali Mehta,noida,Home Appliances,8900.0,2024-03-17

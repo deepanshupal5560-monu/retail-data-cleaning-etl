@@ -1,0 +1,6 @@
+order_id,customer_id,customer_name,city,category,order_amount,order_date
+ORD-1001,CUST-01,Rahul Sharma,Delhi,Electronics,45000.0,2024-03-10
+ORD-1002,CUST-02,Priya Verma,Noida,Home Appliances,12500.5,2024-03-11
+ORD-1005,CUST-02,Priya Verma,Noida,Electronics,18900.0,2024-03-14
+ORD-1007,CUST-06,Vikram Rao,Gurugram,Fashion,5600.0,2024-03-15
+ORD-1009,CUST-07,Anjali Mehta,Noida,Home Appliances,8900.0,2024-03-17
